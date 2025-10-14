@@ -9,6 +9,7 @@ let
     numpy
     pandas
     matplotlib
+    mutagen
   ];
 in
 
